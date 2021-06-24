@@ -9,7 +9,7 @@ JP Nederveld, Javier Ibanez, James Beeks, and Erika Zibelnik.
 ## Repo and Deployed Page
 * Github Repository: https://github.com/eschiavoni2/Project2
 
-* Heroku Deployed Page: https://theartroom.herokuapp.com/
+* Heroku Deployed Page: https://artbook-javier-ibanez.herokuapp.com/login
 
 ## Technologies Used
 * Tate Art museum database
