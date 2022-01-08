@@ -3,7 +3,7 @@ module.exports = {
 "development": {
     "username": process.env.DB_USER,
     "password": process.env.DB_PASS,
-    "database": "f47qfgaxx78y6jn2",
+    "database": "artbook_DB",
     "host": process.env.DB_HOST,
     "dialect": "mysql"
 },
